@@ -1,4 +1,4 @@
-# Poly Proof -Circom Circuit
+# Polygon -zkSnark Circom Circuit
 
 This repository contains a Circom circuit that checks a specific condition regarding input signals `a` and `b` and outputs the result in signal `q`.
 
@@ -31,7 +31,7 @@ To use this circuit, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YashUpadhyay0456/poly-proof-3rd-assessment.git
+git clone https://github.com/.git
 cd poly-proof-3rd-assessment
 ```
 
@@ -70,4 +70,6 @@ We welcome contributions to improve this Circom circuit or add new functionaliti
 
 This Circom circuit is licensed under the [MIT License](LICENSE).
 
---
+## Author
+
+Konsam Sajan Singh
